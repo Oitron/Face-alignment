@@ -25,7 +25,7 @@ Five train iterations: **Blue**: fit, **Red**: initial(mean)
 ![image](https://github.com/Oitron/Face-alignment/blob/main/output/train_iter_04.png)
 ![image](https://github.com/Oitron/Face-alignment/blob/main/output/train_iter_05.png)
 
-Five results on testset: **Blue**: predict, **Red**: initial(mean)
+Five results on testset: **Blue**: predict, **Red**: initial(mean)  
 ![image](https://github.com/Oitron/Face-alignment/blob/main/output/test_01.png)
 ![image](https://github.com/Oitron/Face-alignment/blob/main/output/test_02.png)
 ![image](https://github.com/Oitron/Face-alignment/blob/main/output/test_03.png)
