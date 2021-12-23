@@ -18,7 +18,14 @@ The Supervised Descent Method(A cascade of regressions) is be impremented in **S
 
 ****
 ### Result:
+Five train iterations: **Blue**: fit, **Red**: initial(mean)  
+![image](https://github.com/Oitron/Face-alignment/blob/main/output/train_iter_01.png)
+![image](https://github.com/Oitron/Face-alignment/blob/main/output/train_iter_02.png)
+![image](https://github.com/Oitron/Face-alignment/blob/main/output/train_iter_03.png)
+![image](https://github.com/Oitron/Face-alignment/blob/main/output/train_iter_04.png)
+![image](https://github.com/Oitron/Face-alignment/blob/main/output/train_iter_05.png)
 
+Five results on testset: **Blue**: predict, **Red**: initial(mean)
 
 ****
 ### Source:
